@@ -1,0 +1,10 @@
+Akun login
+-------------
+1. Admin
+	> Email		: ksatria708@gmail.com
+	> Password	: hahaha123
+2. User (kasir)
+	> Email		: kevinsatriacorp@gmail.com
+	> Password	: hahaha123
+
+[untuk daftar akun baru hanya bisa untuk user kasir]
