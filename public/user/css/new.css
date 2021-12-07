@@ -1,0 +1,88 @@
+.frame{
+  margin: 5%;
+}
+.desk{
+  margin: 0 2%;
+}
+.invoice{
+  margin: 2% 10%;
+}
+
+.form{
+  margin: 6% 12%;
+}
+
+.filter-atas{
+    margin: 2% 5%;
+}
+    
+    .listproduk{
+      margin: 5% ;
+    }
+
+    .listproduk .teks{
+          text-decoration: none;
+          border-style: none;
+          margin: 20px 20px 0 0px;
+          color: rgb(68, 68, 68);
+        }
+
+        .overlay-produk {
+          position: relative;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          width: 100%;
+          text-align: center;
+          
+        }
+        .part{
+          box-shadow: 
+          3px 5px 2px rgba(70, 70, 70, 0.2);
+          transition: .4s ease all;
+        }
+        .part:hover{
+          margin-top: -7px;
+        }
+        .teks:hover{
+          opacity: 70%;
+        }
+
+        .button_jenis {
+      border-radius: 2px;
+      background-color: rgb(65, 65, 65);;
+      border: none;
+      color: white;
+      text-align: center;
+      font-size: 22px;
+      padding: 12px;
+      width: 200px;
+      transition: all 0.5s;
+      cursor: pointer;
+      margin: 7% 0;
+      box-shadow: 0 10px 20px -8px rgba(0, 0, 0,.7);
+      display: inline-block;
+      position: relative;
+    }
+    
+    .button_jenis:after {
+      content: '»';
+      position: absolute;
+      opacity: 0;  
+      top: 12px;
+      right: -20px;
+      transition: 0.1s;
+    }
+    
+    .button_jenis:hover{
+      padding-right: 24px;
+      padding-left:8px;
+      background-color: white;
+      color: rgb(65, 65, 65);
+    }
+    
+    .button_jenis:hover:after {
+      opacity: 1;
+      right: 10px;
+    }
