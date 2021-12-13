@@ -1,3 +1,6 @@
+Harap rename Foler menjadi "pos_mini" terlebih dahulu sebelum menjalankan. Terimakasih.
+
+
 Akun login
 -------------
 1. Admin
